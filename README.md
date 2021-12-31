@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mob
 - 👀 I’m interested in design pattern
 - 🌱 I’m currently building my website
-- 💞️ https://mobbbb.top AMS - Animation.Moive.Summary
+- 💞️ AMS - Animation.Moive.Summary —— https://mobbbb.top
 - 📫 How to reach me —— zaobiaokuxr795824@163.com
 
 <!---
