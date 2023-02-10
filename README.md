@@ -11,6 +11,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mobbbb&layout=compact&line_height=22)](https://github.com/Mobbbb/blog)
 
 
+![snake](./images/github-contribution-grid-snake.svg)
+
+
 - 🚩 AMS - [Animation.Moive.Summary](https://mobbbb.top) —— Home page
 - 🚩 GEC - [Genshin-Equipment-Calculator](https://mobbbb.top/genshin/) —— Game tools
 - 📫 How to reach me —— cyk491450147@gmail.com
