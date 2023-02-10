@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mobbbb&hide_title=false&show_icons=true&include_all_commits=true&line_height=22&hide=stars&theme=graywhite)](https://github.com/Mobbbb)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mobbbb&hide_title=false&show_icons=true&include_all_commits=true&line_height=28&hide=stars)](https://github.com/Mobbbb)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mobbbb&layout=compact&line_height=22)](https://github.com/Mobbbb/blog)
 
 - 👋 Hi, I’m Mob
