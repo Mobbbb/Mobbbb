@@ -16,4 +16,3 @@
 
 - 🚩 AMS - [Animation.Moive.Summary](https://mobbbb.top) —— Home page
 - 🚩 GEC - [Genshin-Equipment-Calculator](https://mobbbb.top/genshin/) —— Game tools
-- 📫 How to reach me —— cyk491450147@gmail.com
