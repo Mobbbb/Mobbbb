@@ -3,7 +3,7 @@
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=600&height=40&lines=If+everyone+is+not+special%2C+Maybe+you+can+be+what+you+want+to+be.)
 
-<img src="./images/line.png" width="900"  height="3">  
+<img src="./images/line.gif" width="900"  height="3">  
   
 </div>
 
