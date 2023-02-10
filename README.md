@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mobbbb)](https://github.com/Mobbbb/blog)
+
 - 👋 Hi, I’m Mob
 - 👀 I’m interested in design pattern
 - 🌱 I’m currently building my own website
