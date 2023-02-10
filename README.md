@@ -1,5 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mobbbb&hide_title=false&show_icons=true&include_all_commits=true&line_height=20&hide=stars&theme=graywhite)](https://github.com/Mobbbb)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mobbbb)](https://github.com/Mobbbb/blog)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mobbbb&layout=compact)](https://github.com/Mobbbb/blog)
 
 - 👋 Hi, I’m Mob
 - 👀 I’m interested in design pattern
