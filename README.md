@@ -14,5 +14,6 @@
 ![snake](./images/github-contribution-grid-snake.svg)
 
 
-- 🚩 AMS - [Animation.Moive.Summary](https://mobbbb.top) —— Home page
-- 🚩 GEC - [Genshin-Equipment-Calculator](https://mobbbb.top/genshin/) —— Game tools
+- 🚩 AMS - [Animation.Moive.Summary](https://www.mobbbb.top/?from=git) —— Home page
+- 🚩 GEC - [Genshin-Equipment-Calculator](https://www.mobbbb.top/genshin/) —— Game tools
+- 🚩 DC - [Destiny Child](https://www.mobbbb.top/dc/) —— Game tools
