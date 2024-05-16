@@ -25,4 +25,6 @@ jobs:
         uses: EndBug/add-and-commit@v7.2.1
         with:
           branch: main
+          author_name: Author Name
+          author_email: mobbbb.top@gmail.com
           message: "Generate Contribution Snake"
