@@ -15,5 +15,5 @@
 
 
 - 🚩 AMS - [Animation.Moive.Summary](https://www.mobbbb.top/?from=git) —— Home page
-- 🚩 GEC - [Genshin-Equipment-Calculator](https://www.mobbbb.top/genshin/) —— Game tools
+- 🚩 FUTURE - [FUTURE](https://www.mobbbb.top/future/?from=git) —— Future tools
 - 🚩 DC - [Destiny Child](https://www.mobbbb.top/dc/) —— Game tools
